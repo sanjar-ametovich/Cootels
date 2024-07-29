@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  width: 100%;
+  height: 100vh;
+  background: purple;
+}
+.header-logo {
+  width: 200px;
+  height: 200px;
+  background: green;
+}
+.header-links {
+  width: 500px;
+  height: auto;
+  background: red;
+}
+.header-links-input {
+  background: yellow;
+  border: none;
+  outline: none;
+}
+
+.header-logo h3 {
+  font-size: 32px;
+  color: blue;
+}/*# sourceMappingURL=style.css.map */
